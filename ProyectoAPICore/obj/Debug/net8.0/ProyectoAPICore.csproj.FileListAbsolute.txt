@@ -1,0 +1,24 @@
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\bin\Debug\net8.0\ProyectoAPICore.deps.json
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\bin\Debug\net8.0\ProyectoAPICore.dll
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\bin\Debug\net8.0\ProyectoAPICore.pdb
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.csproj.AssemblyReference.cache
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.AssemblyInfoInputs.cache
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.AssemblyInfo.cs
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.csproj.CoreCompileInputs.cache
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.dll
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\obj\Debug\net8.0\refint\ProyectoAPICore.dll
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.pdb
+C:\Users\Gener\Documents\SOLTUM TECNOLOGÍA\ProyectoAPICore\obj\Debug\net8.0\ref\ProyectoAPICore.dll
+C:\Users\Gener\Documents\C#\ProyectoAPICore\bin\Debug\net8.0\ProyectoAPICore.deps.json
+C:\Users\Gener\Documents\C#\ProyectoAPICore\bin\Debug\net8.0\ProyectoAPICore.dll
+C:\Users\Gener\Documents\C#\ProyectoAPICore\bin\Debug\net8.0\ProyectoAPICore.pdb
+C:\Users\Gener\Documents\C#\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.csproj.AssemblyReference.cache
+C:\Users\Gener\Documents\C#\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gener\Documents\C#\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.AssemblyInfoInputs.cache
+C:\Users\Gener\Documents\C#\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.AssemblyInfo.cs
+C:\Users\Gener\Documents\C#\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.csproj.CoreCompileInputs.cache
+C:\Users\Gener\Documents\C#\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.dll
+C:\Users\Gener\Documents\C#\ProyectoAPICore\obj\Debug\net8.0\refint\ProyectoAPICore.dll
+C:\Users\Gener\Documents\C#\ProyectoAPICore\obj\Debug\net8.0\ProyectoAPICore.pdb
+C:\Users\Gener\Documents\C#\ProyectoAPICore\obj\Debug\net8.0\ref\ProyectoAPICore.dll
